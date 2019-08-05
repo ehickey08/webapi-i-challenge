@@ -66,6 +66,7 @@ function App() {
                     updateUser,
                     activeUser,
                     setActiveUser,
+                    errorMessage
                 }}>
                 <AddUserForm />
                 <Users />
